@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+table {
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            border: 1px solid black;
+        }
+
+        th {
+            text-align: left;
+            border: 1px solid black;
+
+        }
+
+        td {
+            text-align: right;
+            border: 1px solid black;
+
+        }
+
+        .part {
+            text-align: left;
+        }
